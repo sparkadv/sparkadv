@@ -1,0 +1,8 @@
+{
+  "name": "sparkadv",
+  "app_id": "3b5b5743",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
